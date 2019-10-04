@@ -1,7 +1,6 @@
 {
   "name": "todo-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,16 @@
   "author": "visakh",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.3.2"
-  }
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visakh989/node-course-2-todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/visakh989/node-course-2-todo/issues"
+  },
+  "homepage": "https://github.com/visakh989/node-course-2-todo#readme",
+  "description": ""
 }
